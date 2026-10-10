@@ -1,0 +1,1 @@
+Cambios: Educación UPLA 2022–2026, ajuste de tipografía/espaciado y mejor adaptación para móvil. Reemplazar carpeta completa o src/routes/+page.svelte.
